@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @zayaizraya17
-- 👀 I’m interested in playing videogames
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: help me
+i'm Kira, MGKCT student, learning python bim bim bam bom
 
 <!---
 zayaizraya17/zayaizraya17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
